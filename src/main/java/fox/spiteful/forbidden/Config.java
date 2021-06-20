@@ -166,8 +166,6 @@ public class Config {
             spawnerMobs.put("Bat", Aspect.FLIGHT);
             spawnerMobs.put("Spider", Aspect.CLOTH);
             spawnerMobs.put("Slime", Aspect.SLIME);
-            spawnerMobs.put("Ghast", DarkAspects.NETHER);
-            spawnerMobs.put("PigZombie", Aspect.GREED);
             spawnerMobs.put("Enderman", Aspect.ELDRITCH);
             spawnerMobs.put("CaveSpider", Aspect.POISON);
             if (silverfishEmeralds)
@@ -175,11 +173,7 @@ public class Config {
             else
                 spawnerMobs.put("Silverfish", Aspect.BEAST);
             spawnerMobs.put("Blaze", Aspect.FIRE);
-            spawnerMobs.put("LavaSlime", Aspect.FIRE);
             spawnerMobs.put("Witch", Aspect.MAGIC);
-            spawnerMobs.put("Villager", Aspect.GREED);
-            spawnerMobs.put("Thaumcraft.Firebat", Aspect.FIRE);
-            spawnerMobs.put("Thaumcraft.Wisp", Aspect.AURA);
             spawnerMobs.put("Thaumcraft.ThaumSlime", Aspect.TAINT);
             spawnerMobs.put("Thaumcraft.BrainyZombie", Aspect.MIND);
             spawnerMobs.put("Thaumcraft.GiantBrainyZombie", Aspect.MIND);
